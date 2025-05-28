@@ -1,0 +1,18 @@
+# Ignore specified folders
+yolo_labels/
+yolo_split/
+segments/
+
+# Common ignored files
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+*.so
+.Python

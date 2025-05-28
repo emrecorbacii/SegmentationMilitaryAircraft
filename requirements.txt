@@ -1,0 +1,17 @@
+segments-ai
+scikit-image>=0.25.2
+numpy>=1.21.0
+scipy>=1.11.4
+networkx>=3.0
+pillow>=10.1
+imageio>=2.33
+tifffile>=2022.8.12
+pyyaml>=6.0
+ultralytics>=8.0.0
+opencv-python>=4.5.0
+pycocotools
+tqdm>=4.50.0
+torch
+torchvision
+shapely>=2.0.0
+geopandas>=0.10.0 
